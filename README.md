@@ -1,7 +1,6 @@
 # GIS_programming
 GEOG 676 - GIS Prog
 
-|[final_project](final_project/README.md)|
 |Labs    |
 |:------:|
 |[lab_1](lab_1/README.md)|

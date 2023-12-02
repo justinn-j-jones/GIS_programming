@@ -1,0 +1,2 @@
+Dataset, Plane_Height, Reference, Z_Factor, Area_2D, Area_3D, Volume
+..SERS_notebook\output\CHM04.tif, 0.00, ABOVE, 1.000000,       2352.125, 3749.660397211, 1715.319154501
